@@ -7,3 +7,4 @@ dist/
 .env
 build/
 coverage/
+.pytest_cache/
