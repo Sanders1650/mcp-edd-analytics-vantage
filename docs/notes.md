@@ -13,3 +13,4 @@ Notes and usage details for mcp-edd-analytics-vantage.
 - clarify the setup steps
 - fix a small wording issue
 - link the usage section
+- link the usage section
