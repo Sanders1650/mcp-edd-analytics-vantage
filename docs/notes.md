@@ -52,3 +52,4 @@ Notes and usage details for mcp-edd-analytics-vantage.
 - link the usage section
 - fix a small wording issue
 - clarify the setup steps
+- fix a small wording issue
